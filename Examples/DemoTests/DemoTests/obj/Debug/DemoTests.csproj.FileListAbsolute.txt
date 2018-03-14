@@ -1,0 +1,9 @@
+C:\Users\nicol\Google Drive\Cours\OpenClassrooms\ASP MVC\Examples\DemoTests\DemoTests\bin\DemoTests.dll.config
+C:\Users\nicol\Google Drive\Cours\OpenClassrooms\ASP MVC\Examples\DemoTests\DemoTests\bin\DemoTests.dll
+C:\Users\nicol\Google Drive\Cours\OpenClassrooms\ASP MVC\Examples\DemoTests\DemoTests\bin\DemoTests.pdb
+C:\Users\nicol\Google Drive\Cours\OpenClassrooms\ASP MVC\Examples\DemoTests\DemoTests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nicol\Google Drive\Cours\OpenClassrooms\ASP MVC\Examples\DemoTests\DemoTests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nicol\Google Drive\Cours\OpenClassrooms\ASP MVC\Examples\DemoTests\DemoTests\obj\Debug\DemoTests.csprojResolveAssemblyReference.cache
+C:\Users\nicol\Google Drive\Cours\OpenClassrooms\ASP MVC\Examples\DemoTests\DemoTests\obj\Debug\DemoTests.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Google Drive\Cours\OpenClassrooms\ASP MVC\Examples\DemoTests\DemoTests\obj\Debug\DemoTests.dll
+C:\Users\nicol\Google Drive\Cours\OpenClassrooms\ASP MVC\Examples\DemoTests\DemoTests\obj\Debug\DemoTests.pdb
