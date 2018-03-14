@@ -18,6 +18,7 @@ namespace HelloWorld.Controllers
             {
                 ViewData["Nom"] = id;
                 ViewBag.Nom = id;
+                // new test line for git
                 return View();
             }
                 
